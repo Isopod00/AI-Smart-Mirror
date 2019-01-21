@@ -1,0 +1,11 @@
+MMM-AssistantMk2:
+https://github.com/eouia/MMM-AssistantMk2
+
+MMM-Hotword:
+https://github.com/eouia/MMM-Hotword
+
+MMM-NotificationTrigger: 
+https://github.com/eouia/MMM-NotificationTrigger
+
+MMM-NowPlayingOnSpotify:
+https://github.com/raywo/MMM-NowPlayingOnSpotify 

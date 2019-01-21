@@ -1,1 +1,2 @@
-# AI Smart Mirror
+# AI-Smart-Mirror
+By Anthony Brogni

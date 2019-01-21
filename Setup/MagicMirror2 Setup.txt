@@ -1,0 +1,11 @@
+OS Image For AIY Google Voice Hat:
+https://dl.google.com/dl/aiyprojects/aiyprojects-latest.img.xz
+
+Install Command For Raspberry Pi:
+bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/MagicMirror/master/installers/raspberry.sh)"
+
+Website:
+https://magicmirror.builders/
+
+Github Repository:
+https://github.com/MichMich/MagicMirror
